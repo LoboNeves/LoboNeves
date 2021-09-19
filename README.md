@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboNeves&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-## Tecnologias encontradas aqui 💻
+<!--- ## Tecnologias encontradas aqui 💻 --->
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,14 +25,17 @@
   <img align="center" alt="Paulo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
-## Contatos ☎
-  
+<!---## Contatos ☎ --->
+ 
+ ##
+
 <div align="center">
    <a href="https://wa.me/5521966262819" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-233233?style=for-the-badge&logo=whatsapp&logoColor=%2300FFCC" target="_blank"></a>
   <a href="https://www.linkedin.com/in/db-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-233233?style=for-the-badge&logo=linkedin&logoColor=%2300FFCC" target="_blank"></a>
   <a href = "mailto:dbenditoneves@gmail.com"><img src="https://img.shields.io/badge/Gmail-233233?style=for-the-badge&logo=gmail&logoColor=%2300FFCC" target="_blank"></a>
 </div>
  
-## Currículo 📄
-   <a href="https://github.com/LoboNeves/LoboNeves/blob/main/Daniel%20Neves.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Clique%20aqui-blue" target="_blank"></a>
-
+<!--- ## Currículo 📄
+ <div align="center">
+  <a href="https://github.com/LoboNeves/LoboNeves/blob/main/Daniel%20Neves.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Clique%20aqui-blue" target="_blank"></a>
+</div> --->
